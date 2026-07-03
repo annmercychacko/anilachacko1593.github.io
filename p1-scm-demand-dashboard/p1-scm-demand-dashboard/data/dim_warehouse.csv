@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,city,country,capacity_sqft
+WH001,Mumbai Hub,Mumbai,India,50000
+WH002,Delhi North,Delhi,India,35000
+WH003,Bangalore Tech,Bangalore,India,28000
+WH004,Chennai Port,Chennai,India,42000
+WH005,Singapore DC,Singapore,Singapore,60000
+WH006,Frankfurt Euro,Frankfurt,Germany,55000

@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,reliability_score,avg_lead_time_days,contract_value_usd
+SUP001,GlobalTech Supplies,Japan,0.81,20,1728520.42
+SUP002,FastTrack Logistics,India,0.87,6,1379335.22
+SUP003,PrimeParts Co,Vietnam,0.9,13,267526.74
+SUP004,NexGen Materials,UK,0.66,3,1909941.06
+SUP005,SwiftSource Ltd,Vietnam,0.98,8,1039979.27
+SUP006,AsiaPac Traders,China,0.94,12,1691255.23
+SUP007,EuroBridge Goods,USA,0.66,8,1101789.11
+SUP008,IndiaFirst Exports,India,0.83,18,87979.65
+SUP009,CoastLine Vendors,Singapore,0.94,12,516932.01
+SUP010,ApexSupply Chain,USA,0.94,5,217024.23
